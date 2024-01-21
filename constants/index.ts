@@ -95,7 +95,7 @@ export const Skill_data = [
     },
     {
       name: "Github",
-      src: "/Github.png",
+      src: "/github.png",
       link: "https://github.com/Codingnaveen46"
     },
   ];
